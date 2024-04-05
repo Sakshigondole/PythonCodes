@@ -1,0 +1,30 @@
+sakshi
+samir
+shreya
+pranav
+surabhi
+me
+hi
+bye
+seeya
+ok
+fine
+uok
+tata
+
+dds
+
+d
+sdsd
+sd
+sd
+sd
+dsd
+sdsd
+s& C:/Users/sgondole/AppData/Local/Programs/Python/Python311/python.exe c:/Users/sgondole/Desktop/Python/AdvancedFileWriter.py
+& C:/Users/sgondole/AppData/Local/Programs/Python/Python311/python.exe c:/Users/sgondole/Desktop/Python/DesktopUI.py
+& C:/Users/sgondole/AppData/Local/Programs/Python/Python311/python.exe c:/Users/sgondole/Desktop/Python/DesktopUI.py
+& C:/Users/sgondole/AppData/Local/Programs/Python/Python311/python.exe c:/Users/sgondole/Desktop/Python/DesktopUI.py
+firstline
+secondline 
+savechanges
